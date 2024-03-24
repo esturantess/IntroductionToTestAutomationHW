@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="917713d8-d1c8-499c-bf12-48a3422aa062" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/home/Door.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/home/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/home/PlayGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/home/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/home/AbstractTestInitDoors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/home/GameTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2e9O8ngASvMZW5JwZ6OObsAI3XY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/user/Downloads/GB/Введение в автоматизацию тестирования/HW/IntroductionToTestAutomationHW/src/main/java/org/example",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Downloads\GB\Введение в автоматизацию тестирования\HW\IntroductionToTestAutomationHW\src\main\java\org\example" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.GameTest.playerDoesNotRiskAndLoseTest (1)">
+    <configuration name="GameTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IntroductionToTestAutomationHW" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.home.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.home" />
+      <option name="MAIN_CLASS_NAME" value="org.example.home.GameTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameTest.playerDoesNotRiskAndLoseTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IntroductionToTestAutomationHW" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.home.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.home" />
+      <option name="MAIN_CLASS_NAME" value="org.example.home.GameTest" />
+      <option name="METHOD_NAME" value="playerDoesNotRiskAndLoseTest(int)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameTest.playerDoesNotRiskAndLoseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IntroductionToTestAutomationHW" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.home.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.home" />
+      <option name="MAIN_CLASS_NAME" value="org.example.home.GameTest" />
+      <option name="METHOD_NAME" value="playerDoesNotRiskAndLoseTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameTest.playerRiskAndWinTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IntroductionToTestAutomationHW" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.home.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.home" />
+      <option name="MAIN_CLASS_NAME" value="org.example.home.GameTest" />
+      <option name="METHOD_NAME" value="playerRiskAndWinTest(int)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameTest.playerRiskAndWinTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IntroductionToTestAutomationHW" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.home.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.home" />
+      <option name="MAIN_CLASS_NAME" value="org.example.home.GameTest" />
+      <option name="METHOD_NAME" value="playerRiskAndWinTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GameTest.playerDoesNotRiskAndLoseTest (1)" />
+        <item itemvalue="JUnit.GameTest.playerDoesNotRiskAndLoseTest" />
+        <item itemvalue="JUnit.GameTest.playerRiskAndWinTest (1)" />
+        <item itemvalue="JUnit.GameTest.playerRiskAndWinTest" />
+        <item itemvalue="JUnit.GameTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="917713d8-d1c8-499c-bf12-48a3422aa062" name="Changes" comment="" />
+      <created>1711313173099</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711313173099</updated>
+    </task>
+    <servers />
+  </component>
+</project>
